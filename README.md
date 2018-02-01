@@ -1,4 +1,4 @@
-# Lab11
+# Pokemon Card Game
 
 Pokemon Card game: each player gets a random deck of 15 cards, select which strategy to use and returns the winners ID
 
